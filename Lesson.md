@@ -41,6 +41,13 @@ Functions are time savers because they allow blocks of code to be run from many 
 ## Arguments
 We've actually used arguments **many** times before. In every program you have written, you have used arguments. Where do you think we have used arguments?
 
+## `pass`
+Sometimes you have an idea of what you want for your function but you don't know what goes in it just yet, you can use the `pass` command:
+```python
+def function_name(parameter: type) --> type:
+    pass
+```
+
 ## Example #1
 ### Part (a) Create a function that will calculate the area of a rectangle.
 
