@@ -7,6 +7,7 @@
 
 # Example #1:
 ## Part (a) Create a function that will check if a number is even or odd
+num = int(input("Enter a number: "))
 
 
 ## Part (b) Use your function by calling it
