@@ -74,3 +74,25 @@ With a function:
 <span style="color:red">
 <b>NOTE: You can only call functions AFTER it has been defined</b>
 </span>
+
+## Example #2
+### Part (a) Create a function that will check if an integer is even, odd, or neither
+Before:
+```python
+num = int(input("Enter a number: "))
+
+
+```
+
+With a function:
+```python
+
+```
+
+## Why Use Functions?
+- Saves time - you only need to code once
+- Saves space - replace big calculations with one call to the function
+- Reuse Code
+- Easier error tracking/debugging - you can find and fix errors faster
+- Maintainable Code - limit the number of changes to code when your program needs to be updated
+- On a large project, different programmers can work on different functions

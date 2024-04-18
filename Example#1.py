@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # Name:		    Lesson 5.1 Intro to Functions & Parameters
-# Purpose:		Lesson Examples
+# Purpose:		Example #1
 # Author:		  LastName. FirstInitial
 # Created:		dd/mm/yyyy
 #-------------------------------------------------------------------------
